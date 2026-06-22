@@ -1,1 +1,3 @@
 This is my first commit.
+
+Git is used to create project.
